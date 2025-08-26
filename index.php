@@ -7,6 +7,7 @@
     <title>IMC</title>
 </head>
 <body>
+    <h2>Calculando o seu imc</h2>
     <form method="post" action="calculo.imc.php">
         nome: <br>
         <input type="text" name="nome"><br>
